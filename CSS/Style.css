@@ -1,0 +1,52 @@
+element:state{ 
+    /*rules go here*/
+}
+
+* {
+    font-size: 100%;
+    ;
+  }
+header{background-image: url(/images/fieldview.png);
+    width: 900px;
+    height: 550px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif, Courier, monospace;
+text-align: center;
+font-style: italic;
+color: white;
+}
+
+p{font-size: x-large;
+    text-align: left;}
+
+
+h2{font-size: xx-large;;}
+
+section{background-color: rgb(237, 241, 240);
+width: 50%;
+height: 50%;
+}
+
+.container1  {
+    background-color: rgb(34, 153, 123);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    ;
+
+}
+
+.container2  {
+    background-color: rgb(34, 153, 123);
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+
+.container3  {
+    background-color: rgb(34, 153, 123);
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+
